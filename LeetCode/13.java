@@ -10,6 +10,6 @@ class Solution {
             else
                 maxConso = Math.max(maxConso, freq[i]);
         }
-        return maxVowel + maxConso;
+        return maxVowel + maxConso; // ggod
     }
 }
